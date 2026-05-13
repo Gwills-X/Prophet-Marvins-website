@@ -5,13 +5,13 @@ import { Zap, Shield, Globe } from "lucide-react";
 const items = [
   {
     icon: <Zap />,
-    title: "Strategy",
-    desc: "Driving innovation through precise planning.",
+    title: "Prophetic Identity",
+    desc: "Confluence & Nexus carries a prophetic mandate to interpret the movements of God within generations, awaken spiritual intelligence, disciple influential voices, restore depth and wisdom to kingdom expression, and establish believers as witnesses of God’s dominion within culture and society. It is a prophetic bridge between spirituality and influence, revelation and culture, wisdom and governance, creativity and divine purpose, and the sacred and societal systems.",
   },
   {
     icon: <Globe />,
-    title: "Global Reach",
-    desc: "Impactful solutions across four continents.",
+    title: "Global Impact ",
+    desc: "Confluence & Nexus is positioned as a prophetic hub, a wisdom movement, a media mission, and an apostolic expression commissioned to shape cities, disciple nations, and influence generations through the spirit of wisdom and revelation.",
   },
   {
     icon: <Shield />,

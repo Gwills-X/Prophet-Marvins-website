@@ -1,11 +1,13 @@
 import MinistryHero from "@/components/ministry/MinistryHero";
-import Initiatives from "@/components/ministry/Initiatives";
+import MinistryMandate from "@/components/ministry/MinistryMandate";
+import VisionNexus from "@/components/ministry/VisionNexus";
 
 export default function MinistryPage() {
   return (
     <main className='pt-20'>
       <MinistryHero />
-      <Initiatives />
+      <MinistryMandate />
+      <VisionNexus />
     </main>
   );
 }
