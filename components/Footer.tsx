@@ -37,9 +37,9 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href='/academy'
+                  href='/schools'
                   className='hover:text-blue-600 transition-colors'>
-                  Academy
+                  Praetorium Academy of Generals
                 </Link>
               </li>
               <li>
